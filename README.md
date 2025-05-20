@@ -61,7 +61,10 @@ Enter type of operation (add, subtract, multiply, divide): divide
 Result: Error: Cannot divide by zero!
 Enter first number (a): hello
 Invalid input. Please enter valid numbers.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Program2---------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Program2-------------------------------------------------------------------------------------------
+
+
+
 Odd Series Generator
 This Java program generates a series of odd numbers up to a specified count. Given a positive integer 'a', it will produce the first 'a' odd numbers.
 
@@ -126,6 +129,10 @@ Invalid Input (Non-integer):
 Enter an integer (a): abc
 Invalid input. Please enter an integer.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Program3-----------------------------------------------------------------------------------------
+
+
+
+
 Odd Series Generator (Type 2)
 This Java program generates a series of odd numbers up to a specified limit, which is determined by the input integer 'a'. Unlike a fixed count, this version generates odd numbers that are less than or equal to 'a' if 'a' is odd, or less than 'a' if 'a' is even.
 
@@ -218,6 +225,10 @@ Example 6: Invalid Input (Non-integer character)
 Enter an integer (a): hello
 Invalid input. Please enter an integer.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Program4------------------------------------------------------------------------------------------
+
+
+
+
 Multiple Counter
 This Java program counts how many numbers in a given list are multiples of specific divisors (1 through 9). It provides a clear mapping of each divisor to its total count of multiples found in the input list.
 
